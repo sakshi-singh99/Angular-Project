@@ -13,10 +13,6 @@ const routes: Routes = [
   {path:'movie', component: MovieComponent},
   {path:'**', component: LoginComponent},
 
-
-
-
-  
 ];
 
 @NgModule({
